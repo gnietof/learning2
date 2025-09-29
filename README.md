@@ -6,4 +6,3 @@ Modificaciones creadas en la branch test-branch.
 Añadimos esta línea en la branch remota.
 
 Y añadimos esta línea localmente.
-
